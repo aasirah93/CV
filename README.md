@@ -11,59 +11,49 @@ Some projects that showcase my learning journey.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| acebook-HoneyBunnies            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| acebook-HoneyBunnies            | A facebook clone | Rails, RSpec. |
+|https://github.com/aasirah93/thermostat | A thermostat complete with weather checking capabilities | JavaScript, Jasmine |
 
-## Experience
+Experience and Education 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
+Makers Academy (April 2020 - July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+Bristol University 
+BA in English 2.1
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+A Levels
+Chemistry A
+English Literature A
+Philosophy and Ethics A
 
-#### Any other qualifications
+Marks and Spencers (Royal Free Hospital)
+Sales Assistant 
 
-That in some arguable way make you a better software developer or well-rounded person
+September 2018 - March 2019
 
-## Hobbies
+Skills
 
-Any cool stuff that makes you a super part of a software development team
+Hard Worker- my academic results can attest to this
+
+Articulate - Not only do I have an English degree, but working in a hospital and having grown up in a newsagents means I understand how to tailor both care and
+work to different audiences
+
+Face to Face Communication - See previous
+
+Other Qualifications
+
+Full Driving License
+First Aid Responder, having qualified under a Nurse
+
+Hobbies
+
+A vast reader, I love to read. My hobbies include writing, watching foreign and independent cinema, as well as martial arts, including Jiu Jitsu and Boxing. I love travel and would love to travel more. I would love to combine my English degree and a future deeper skill in programming and return to Bangladesh one day and help children with both coding and English.
+I also really enjoy keeping up with videogames, particularly console ones (I appreciate that PC is the superior machine), which cultivated my interest in programming and coding, my quarantine favourites being Devil May Cry, Spiderman and The Witcher 3.
+My varied interests definitely keep me curious about the world, and I try to maintain programming amongst them, so that it feels fun and thus motivating.
+
+
