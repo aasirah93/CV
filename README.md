@@ -60,13 +60,13 @@ Franz Kafka, Virginia Woolf, Evelyn Waugh, Kurt Vonnegut, Charles Dickens, Charl
 
 In my spare time, I love to write, and help as an editor on reddit's r/writing. 
 
-I love watching foreign and independent cinema, particularly East Asian cinema (whether it's some violent fun like John Woo or The Shaw Brothers to more thoughtful films by Yatsujiro Ozu and Wong Kar Wai)
+I love watching foreign and independent cinema, particularly East Asian cinema (whether it's some violent fun like John Woo or The Shaw Brothers to more thoughtful films by Yatsujiro Ozu and Wong Kar Wai). I love learning about the world through films and documentaries, particularly Searching for Sugar Man, When We Were Kings and Buena Vista Social Club, not only did these expand my musical interests, but they revealed to me sympathetic historical narratives of apartheid and poverty in the developing world respectively, filtered through a lens of cool varying music.
 
-I enjoy watching and taking part in martial arts, including Jiu Jitsu and Boxing, (both of which I took up because of the racism I received in my teens growing up in London as a Bangladeshi, then fell in love with because of how they help to cultivate discipline and athleticism). I only wish I had taken them up when I was younger, along with things like the piano, which I so wish I could play, or swimming, which I so wish I was better at.
+I enjoy watching and taking part in martial arts, including Jiu Jitsu and Boxing, both of which I took up initially because of the racism I received in my teens growing up in London as a Bangladeshi (especially having been raised in a newsagents), then fell in love with because of how they cultivate discipline and athleticism. I only wish I had taken them up when I was younger, along with things like the piano, which I so wish I could play, or swimming, which I so wish I was better at.
 
 I love travel and would love to travel more, having beeng to Algeria, Morocco, Italy, Canada, France, Germany and America, where I spent some time as an exchange student, and Bangladesh, where my parents are from. I would love to combine my English degree and a future deeper skill in programming and return to Bangladesh one day and help children with both coding and English.
 
-I also really enjoy keeping up with videogames, particularly console games (I appreciate that P.C. is the superior machine), which cultivated my interest in programming and coding; my quarantine favourites are Devil May Cry, Spiderman and The Witcher 3.
+I also really enjoy keeping up with videogames, particularly console games (I appreciate that P.C. is the superior machine), which cultivated my interest in programming and coding; my quarantine favourites are Devil May Cry, Spiderman, Dark Souls, Cuphead and The Witcher 3.
 
 My varied interests definitely keep me curious about the world, and I try to maintain programming amongst them, so that it feels fun and thus motivating.
 
