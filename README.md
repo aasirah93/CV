@@ -1,12 +1,17 @@
-## Your Name
+Asifur Rahman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Graduate of the first ever, fully remote Makers Academy.
 
-## Projects
+After graduating from Bristol University, I was not sure what to do with my English degree. After a hapless run of near successes in advertising, I entered retail, 
+working at Marks and Spencers in the Royal Free Hospital, as well as my parents, running a newsagents; whilst this gave me an eye and ear for all walks of life, I found myself unfulfilled, and decided to stoke both my love of learning and creativity by taking up coding. 
+
+Projects
+
+Some projects that showcase my learning journey.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| acebook-HoneyBunnies            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
