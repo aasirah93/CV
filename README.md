@@ -10,9 +10,11 @@ Projects
 Some projects that showcase my learning journey.
 
 | Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
+| ---------------------------- | ----------------- | ----------------- 
+
 | acebook-HoneyBunnies            | A facebook clone | Rails, RSpec. |
 |https://github.com/aasirah93/thermostat | A thermostat complete with weather checking capabilities | JavaScript, Jasmine |
+
 
 Experience and Education 
 
