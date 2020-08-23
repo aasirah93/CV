@@ -23,8 +23,11 @@ Makers Academy (April 2020 - July 2020)
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-Bristol University 
+Bristol University (2013-2016)
+Occidental College, California (2014) Exchange Program
+
 BA in English 2.1
+
 
 A Levels
 Chemistry A
@@ -52,8 +55,19 @@ First Aid Responder, having qualified under a Nurse
 
 Hobbies
 
-A vast reader, I love to read. My hobbies include writing, watching foreign and independent cinema, as well as martial arts, including Jiu Jitsu and Boxing. I love travel and would love to travel more. I would love to combine my English degree and a future deeper skill in programming and return to Bangladesh one day and help children with both coding and English.
-I also really enjoy keeping up with videogames, particularly console ones (I appreciate that PC is the superior machine), which cultivated my interest in programming and coding, my quarantine favourites being Devil May Cry, Spiderman and The Witcher 3.
+A vast reader, I love to read. My favourite writers include Chinua Achebe, Bret Easton Ellis, Fyodor Dostoyevsky, Ivan Solzhenitsyn, Mikhail Bulgakov,
+Franz Kafka, Virginia Woolf, Evelyn Waugh, Kurt Vonnegut, Charles Dickens, Charles Bukowski and Haruki Murakami.
+
+In my spare time, I love to write, and help as an editor on reddit's r/writing. 
+
+I love watching foreign and independent cinema, particularly East Asian cinema (whether it's some violent fun like John Woo or The Shaw Brothers to more thoughtful films by Yatsujiro Ozu and Wong Kar Wai)
+
+I enjoy watching and taking part in martial arts, including Jiu Jitsu and Boxing, (both of which I took up because of the racism I received in my teens growing up in London as a Bangladeshi, then fell in love with because of how they help to cultivate discipline and athleticism). I only wish I had taken them up when I was younger, along with things like the piano, which I so wish I could play, or swimming, which I so wish I was better at.
+
+I love travel and would love to travel more, having beeng to Algeria, Morocco, Italy, Canada, France, Germany and America, where I spent some time as an exchange student, and Bangladesh, where my parents are from. I would love to combine my English degree and a future deeper skill in programming and return to Bangladesh one day and help children with both coding and English.
+
+I also really enjoy keeping up with videogames, particularly console games (I appreciate that P.C. is the superior machine), which cultivated my interest in programming and coding; my quarantine favourites are Devil May Cry, Spiderman and The Witcher 3.
+
 My varied interests definitely keep me curious about the world, and I try to maintain programming amongst them, so that it feels fun and thus motivating.
 
 
