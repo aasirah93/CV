@@ -11,9 +11,8 @@ Some projects that showcase my learning journey.
 
 | Name                                                   | Description       | Tech/tools        |
 | ----------------------------                           | ----------------- | ----------------- 
-|https://github.com/mbrad26/final-project-front-end      | Frontend for final| React, Jest, Enzyme,
-                                                           project:  
-                                                           a tiktok curator
+|https://github.com/mbrad26/final-project-front-end      | Frontend for final project:  
+                                                           a tiktok curator| React, Jest, Enzyme,
 |https://github.com/cmb84scd/acebook-HoneyBunnies        | A facebook clone  | Ruby, Rails, Rspec, Capybara, Psql |
 |https://github.com/aasirah93/thermostat | A thermostat complete with weather checking capabilities | JavaScript, Jasmine, JQuery, Bootstrap CSS, HTML |
 
