@@ -17,7 +17,7 @@ Some projects that showcase my learning journey.
 
 
 
-Experience and Education 
+Experience and Education :
 
 Makers Academy (April 2020 - July 2020)
 
@@ -32,7 +32,7 @@ Occidental College, California (2014) Exchange Program
 BA in English 2.1
 
 
-A Levels
+A Levels:
 Chemistry A
 English Literature A
 Philosophy and Ethics A
@@ -42,7 +42,7 @@ Sales Assistant
 
 September 2018 - March 2019
 
-Skills
+Skills:
 
 Hard Worker- my academic results can attest to this
 
@@ -51,12 +51,12 @@ work to different audiences
 
 Face to Face Communication - See previous
 
-Other Qualifications
+Other Qualifications:
 
 Full Driving License
 First Aid Responder, having qualified under a Nurse
 
-Hobbies
+Hobbies:
 
 A vast reader, I love to read. My favourite writers include Bret Easton Ellis, Fyodor Dostoyevsky, Ivan Solzhenitsyn, Mikhail Bulgakov,
 Franz Kafka, Virginia Woolf, Evelyn Waugh, Kurt Vonnegut, Charles Bukowski and Haruki Murakami. In my spare time, I love to write, and help as an editor on reddit's r/writing. 
