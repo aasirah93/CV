@@ -11,10 +11,10 @@ Some projects that showcase my learning journey.
 
 | Name                                                   | Description       | Tech/tools        |
 | ----------------------------                           | ----------------- | ----------------- 
-|https://github.com/mbrad26/final-project-front-end      | Frontend for final project | React, Jest, Enzyme,
+|https://github.com/mbrad26/final-project-front-end      | Frontend for final project | React, Jest, Enzyme, Cypress
 |https://github.com/cmb84scd/acebook-HoneyBunnies        | A facebook clone  | Ruby, Rails, Rspec, Capybara, Psql |
 |https://github.com/aasirah93/thermostat | A thermostat complete with weather checking capabilities | JavaScript, Jasmine, JQuery, Bootstrap CSS, HTML |
-|https://github.com/aasirah93/StarWars   | Displays planets; a React practice app | React 
+|https://github.com/aasirah93/StarWars   | Displays planets; a React practice app | React, Cypress
 
 
 
