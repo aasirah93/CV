@@ -55,12 +55,13 @@ Face to Face Communication - See previous
 Other Qualifications:
 
 Full Driving License
+
 First Aid Responder, having qualified under a Nurse
 
 Hobbies:
 
-A vast reader, I love to read. My favourite writers include Bret Easton Ellis, Fyodor Dostoyevsky, Ivan Solzhenitsyn, Mikhail Bulgakov,
-Franz Kafka, Virginia Woolf, Evelyn Waugh, Kurt Vonnegut, Charles Bukowski and Haruki Murakami. In my spare time, I love to write, and help as an editor on reddit's r/writing. 
+A vast reader, I love to read. My favourite writers include Bret Easton Ellis, Fyodor Dostoyevsky, Kurt Vonnegut, EM Forster, Haruki Murakami and Virginia Woolf. 
+In my spare time, I love to write, and help as an editor on reddit's r/writing. 
 
 I love watching foreign and independent cinema, particularly East Asian cinema (whether it's some violent fun like John Woo or The Shaw Brothers to more thoughtful films by Yatsujiro Ozu and Wong Kar Wai). I love learning about the world through films and documentaries.
 
