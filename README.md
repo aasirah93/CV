@@ -36,9 +36,9 @@ BA in English 2.1
 
 
 A Levels:
-Chemistry A
-English Literature A
-Philosophy and Ethics A
+| Chemistry A |
+| English Literature A |
+| Philosophy and Ethics A |
 
 Marks and Spencers (Royal Free Hospital)
 Sales Assistant 
@@ -69,8 +69,8 @@ In my spare time, I love to write, and help as an editor on reddit's r/writing.
 
 I love watching foreign and independent cinema, particularly East Asian cinema (whether it's some violent fun like John Woo or The Shaw Brothers to more thoughtful films by Yatsujiro Ozu and Wong Kar Wai). I love learning about the world through films and documentaries.
 
-I am also a keen boxing fan.
+I am also a keen boxing fan.  
 
-My varied interests definitely keep me curious about the world, and I try to maintain programming amongst them, so that it feels fun and thus motivating.
+My varied interests definitely keep me curious about the world, and I try to maintain programming amongst them, so that it feels fun and thus motivating. I would travel more, if I could afford it, and hopefully when the world overcomes this thing we are in, I will.
 
 
