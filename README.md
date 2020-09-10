@@ -15,7 +15,7 @@ Some projects that showcase my learning journey.
 |https://github.com/cmb84scd/acebook-HoneyBunnies        | A facebook clone  | Ruby, Rails, Rspec, Capybara, Psql |
 |https://github.com/aasirah93/thermostat | A thermostat complete with weather checking capabilities | JavaScript, Jasmine, JQuery, Bootstrap CSS, HTML |
 |https://github.com/aasirah93/airport_challenge | An exercise in Object Oriented Programming | Ruby, RSpec |
-|https://github.com/aasirah93/StarWars   | Displays planets; a React practice app | React, Cypress, Enzyme |
+|https://github.com/aasirah93/StarWars   | Displays planets; a React practice app: http://immense-argument.surge.sh/ | React, Cypress, Enzyme |
 
 
 
